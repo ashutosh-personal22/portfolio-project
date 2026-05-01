@@ -1,0 +1,12 @@
+# Java
+portfolio-backend/target/
+portfolio-backend/*.class
+
+# Node
+portfolio-frontend/node_modules/
+portfolio-frontend/dist/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
