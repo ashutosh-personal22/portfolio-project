@@ -12,7 +12,10 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = {"http://localhost:3000", "http://127.0.0.1:3000"})
+@CrossOrigin(origins = {
+        "http://localhost:3000",
+        "https://ashutosh-panda-2210.vercel.app"
+})
 public class ContactController {
 
     private static final Logger log = LoggerFactory.getLogger(ContactController.class);
