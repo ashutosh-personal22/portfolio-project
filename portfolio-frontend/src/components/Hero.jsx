@@ -106,7 +106,7 @@ export default function Hero() {
               maxWidth: '580px', marginBottom: '40px',
               animation: 'fadeUp 0.6s 0.4s ease both',
             }}>
-              Results-driven Java Developer with <strong style={{ color: 'var(--text)' }}>3.5+ years</strong> building
+              Results-driven Java Developer with <strong style={{ color: 'var(--text)' }}>4.1+ years</strong> building
               enterprise-grade microservices, scalable data pipelines, and cloud solutions.
               Reduced deployment cycles by <strong style={{ color: 'var(--amber)' }}>50%</strong> and
               optimized performance by <strong style={{ color: 'var(--amber)' }}>35%</strong> through
@@ -139,7 +139,7 @@ export default function Hero() {
               animation: 'fadeUp 0.6s 0.6s ease both',
             }}>
               {[
-                { num: '3.5+', label: 'Years Experience' },
+                { num: '4.1+', label: 'Years Experience' },
                 { num: '100K+', label: 'Daily Transactions' },
                 { num: '50%', label: 'Faster Deployments' },
                 { num: '3', label: 'Major Projects' },

@@ -64,7 +64,7 @@ export default function Experience() {
                     <div style={{
                       marginTop: '8px', fontFamily: 'var(--font-mono)',
                       fontSize: '11px', color: 'var(--cyan)'
-                    }}>3.5+ Years</div>
+                    }}>4.1+ Years</div>
                   </div>
                 </div>
 
